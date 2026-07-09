@@ -1,0 +1,4 @@
+packages:
+  # 1. Official DBT Hub Package
+  - package: dbt-labs/dbt_utils
+    version: 1.4.0
