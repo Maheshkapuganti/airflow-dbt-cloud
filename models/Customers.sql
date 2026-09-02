@@ -5,4 +5,4 @@
     )
 }}
 
-Select * from CUSTOMERS
+Select * from CUSTOMER
